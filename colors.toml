@@ -1,0 +1,41 @@
+mode = "light"
+
+# Kato Megumi: sakura petals, a crimson scarf, plum-brown hair.
+# Neutral soft off-white background; Megumi lives in the accents.
+# Built like Omarchy's official light themes (Lupine, Flexoki): a bright
+# background, near-black text (~15:1), small even surface steps, and ANSI
+# colors tuned for distinct hues at max tasteful chroma (OKLCH). Every text color is >= 4.5:1 on background.
+
+accent = "#a32c50"
+selection = "#dadada"
+muted = "#6e6e6e"
+
+background = "#f3f3f3"
+dark_background = "#e9e9e9"
+darker_background = "#dfdfdf"
+lighter_background = "#f9f9f9"
+
+foreground = "#1f1c1e"
+dark_foreground = "#555153"
+light_foreground = "#3b3739"
+bright_foreground = "#121012"
+
+red = "#c03548"
+yellow = "#8c6200"
+orange = "#a85110"
+green = "#1d7936"
+cyan = "#007581"
+blue = "#2f64cc"
+magenta = "#ae3b94"
+brown = "#744a37"
+
+bright_red = "#d4273a"
+bright_yellow = "#8e6800"
+bright_green = "#007f3f"
+bright_cyan = "#007a8b"
+bright_blue = "#3b65e3"
+bright_magenta = "#c13098"
+
+# Crimson scarf fading into sakura and lavender petals.
+hyprland_active_border = "rgba(a32c50ee) rgba(d98aa5ee) rgba(a58cc4ee) 45deg"
+hyprland_inactive_border = "rgba(c4c4c4aa)"
