@@ -34,16 +34,19 @@ omarchy plymouth set-by-theme kato-megumi
 
 ## Wallpapers
 
+Four wallpapers are compressed as WebP to reduce their file sizes. The largest
+is resized from 4800×3400 to 3840×2720; the others keep their original dimensions.
+
 | # | File | Artist | Source |
 |---|---|---|---|
-| 1 | `01-O06_…28edg6.png` | Misaki Kurehito* | [wallhaven 28edg6](https://wallhaven.cc/w/28edg6) |
+| 1 | `01-O06_…28edg6.webp` | Misaki Kurehito* | [wallhaven 28edg6](https://wallhaven.cc/w/28edg6) |
 | 2 | `02-O04_…57mrj5.jpg` | Misaki Kurehito* | [wallhaven 57mrj5](https://wallhaven.cc/w/57mrj5) |
 | 3 | `03-O05_…x1pgll.jpg` | Misaki Kurehito* | [saenai.tv](http://www.saenai.tv/) via [wallhaven x1pgll](https://wallhaven.cc/w/x1pgll) |
 | 4 | `04-O07_…yjgl6g.jpg` | Misaki Kurehito* | [konachan](http://konachan.net/post/show/230025) via [wallhaven yjgl6g](https://wallhaven.cc/w/yjgl6g) |
 | 5 | `05-O11_…d5plzm.jpg` | Misaki Kurehito* | [yande.re](https://yande.re/post/show/356486) via [wallhaven d5plzm](https://wallhaven.cc/w/d5plzm) |
-| 6 | `06-F18_…yxqmkg.jpg` | unknown | [wallhaven yxqmkg](https://wallhaven.cc/w/yxqmkg) |
-| 7 | `07-G09_…9mv5w1.png` | unknown | [wallhaven 9mv5w1](https://wallhaven.cc/w/9mv5w1) |
-| 8 | `08-G05_…p2j28p.png` | official anime key visual (copyright notice on image) | [wallhaven p2j28p](https://wallhaven.cc/w/p2j28p) |
+| 6 | `06-F18_…yxqmkg.webp` | unknown | [wallhaven yxqmkg](https://wallhaven.cc/w/yxqmkg) |
+| 7 | `07-G09_…9mv5w1.webp` | unknown | [wallhaven 9mv5w1](https://wallhaven.cc/w/9mv5w1) |
+| 8 | `08-G05_…p2j28p.webp` | official anime key visual (copyright notice on image) | [wallhaven p2j28p](https://wallhaven.cc/w/p2j28p) |
 | 9 | `09-G11_…4xgkrd.jpg` | unknown | [wallhaven 4xgkrd](https://wallhaven.cc/w/4xgkrd) |
 
 ## Artwork & takedown
